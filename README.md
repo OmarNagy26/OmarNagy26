@@ -58,7 +58,7 @@ To become a well-rounded full-stack developer capable of building complete, effi
 
 ---
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarNagy26&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarNagy26&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="195"/>
 </div>
