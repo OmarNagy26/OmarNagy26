@@ -2,11 +2,10 @@
 
 🎯 A passionate self-taught web developer on a mission to become a professional full-stack developer. I’m building my skills step by step, with a solid foundation in both frontend and backend development. I’m deeply driven by a love for knowledge and constant learning — always curious, consistent, and determined to grow.
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding Animation" width="600"/>
 </p>
-
----
 
 ### 🧠 About Me:
 
