@@ -56,3 +56,8 @@ To become a well-rounded full-stack developer capable of building complete, effi
 
 🧠 *"Code is not just a skill, it's a mindset — learn it deeply, use it wisely."*
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarNagy26&show_icons=true)
+
+
